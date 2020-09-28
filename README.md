@@ -5,9 +5,9 @@ I also include keymap for Preonic keyboard I have used and sysex files for Elekt
 High quality files (48kHz 24bit) are on [Wave Folder Records Bandcamp](https://wavefolder.bandcamp.com/album/re-conet-c) where all the content is released and hosted as well. 
 I consider this a living project so patches/software will be updated in the future, new versions will be added as well. 
 
-Tracklist:
+# Tracklist:
 
-Original mixes submitted to artists and engineers:
+**Original mixes submitted to artists and engineers:**
 
 1. Dimensions (Radek Rudnicki mix)
 2. Bionic Walk (Radek Rudnicki mix)
@@ -16,14 +16,14 @@ Original mixes submitted to artists and engineers:
 5. Reconetc (Radek Rudnicki mix)
 6. Broken Piano in Leeds (Radek Rudnicki mix)
 
-Mixes by artists / engineers:
+**Mixes by artists / engineers:**
 
 1. Dimensions (Nathan Moody mix)
 2. Bionic Walk (Roel Funcken mix)
 3. Elektrocity (Benny Tones mix)
 4. Mornings at Night (Toby Lloyd mix)
 
-Mastered versions of all the tracks:
+**Mastered versions of all the tracks:**
 Mastering by Bob Macc from [Subvert Mastering](http://www.scmastering.com/)
 
 1. Dimensions (Radek Mix/Bob Macc Master)
@@ -37,7 +37,13 @@ Mastering by Bob Macc from [Subvert Mastering](http://www.scmastering.com/)
 9. Reconetc (Radek Mix/Bob Macc Master)
 10. Broken Piano in Leeds (Radek Mix/Bob Macc Master) 
 
-Reconetc (pd patch) used in Reconetc and Broken Piano in Leeds
+
+**Software/Patches/Samples and additional content**
+
+First Header  | Second Header
+------------- | -------------
+Reconetc (pd patch)|used in Reconetc and Broken Piano in Leeds
+ 
 RytmTool used in Elektrocity
 DigiTool used in Mornings at Night and in Bionic Walk.
 ORCA patch used in Mornings at Night
