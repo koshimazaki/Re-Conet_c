@@ -1,6 +1,6 @@
-## Guide ##
+## Score/Guide ##
 
-#*Dimensions Track*#
+#Dimensions Track#
 
 * Use Rytm sysex files. 
 * Process Rytm with your favourite delay and saturator. I used Bugbrand PT Delay and Looptrotter SATUR-8/24. 
