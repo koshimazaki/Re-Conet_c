@@ -42,7 +42,7 @@ Mastering by Bob Macc from [Subvert Mastering](http://www.scmastering.com/)
 
 Patch  | Use
 ------------- | -------------
-Reconetc (pd patch)| in *Reconetc*, *Broken Piano in Leeds*, *Dimensions*
+[Reconetc (pd patch)](ReconetC!_ComputerVersion.pd)| in *Reconetc*, *Broken Piano in Leeds*, *Dimensions*
 RytmTool | in *Elektrocity*
 DigiTool | in *Mornings at Night* and *Bionic Walk*.
 VCV Rack patches| samples in *Elektrocity* / processing in *Reconetc*
