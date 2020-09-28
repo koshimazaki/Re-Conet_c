@@ -42,14 +42,14 @@ Mastering by Bob Macc from [Subvert Mastering](http://www.scmastering.com/)
 
 Patch  | Use
 ------------- | -------------
-Reconetc (pd patch)| in Reconetc and Broken Piano in Leeds
-RytmTool | in Elektrocity
-DigiTool | in Mornings at Night and Bionic Walk.
-VCV Rack patches| samples in Elektrocity / processing in Reconetc
-ORCA patch| in Mornings at Night
+Reconetc (pd patch)| in *Reconetc*, *Broken Piano in Leeds*, *Dimensions*
+RytmTool | in *Elektrocity*
+DigiTool | in *Mornings at Night* and *Bionic Walk*.
+VCV Rack patches| samples in *Elektrocity* / processing in *Reconetc*
+ORCA patch| in *Mornings at Night*
 Sample pack| various tracks
 Sysex files| Digitone and Rytm from various tracks
-Preonic keymap| in Reconetc and Broken Piano in Leeds
+Preonic keymap| in *Reconetc* and *Broken Piano in Leeds*
  
 Sample pack of content created in development includes broken piano samples, Serge Modular, Buchla 200e, VCV Rack, Eurorack jams. Samples were used in Analog Rytm, Qubit Nebulae, MakeNoise Morphagene, pd and Max patches.
 
