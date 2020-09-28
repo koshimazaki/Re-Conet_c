@@ -40,14 +40,17 @@ Mastering by Bob Macc from [Subvert Mastering](http://www.scmastering.com/)
 
 **Software/Patches/Samples and additional content**
 
-First Header  | Second Header
+Patch  | Use
 ------------- | -------------
 Reconetc (pd patch)|used in Reconetc and Broken Piano in Leeds
+RytmTool | used in Elektrocity
+DigiTool | used in Mornings at Night and in Bionic Walk.
+VCV Rack patches| used to generate samples in Elektrocity and for processing in Reconetc
+ORCA patch|used in Mornings at Night
+Sample pack| various tracks
+Sysex files| Digitone and Rytm from Dimensions, Mornings at Night, Elektrocity, Bionic Walk
+Preonic keymap|used in Reconetc and Broken Piano in Leeds
  
-RytmTool used in Elektrocity
-DigiTool used in Mornings at Night and in Bionic Walk.
-ORCA patch used in Mornings at Night
-VCV Rack patches used to generate samples in Elektrocity and for processing in Reconetc
 Sample pack of content created in development. Piano samples, Serge Modular, Eurorack jams were used in Analog Rytm, Qubit Nebulae, Morphagene and pd patches.
 
 Project was generously funded by Creative New Zealand and supported by [Looptrotter](http://looptrotter.com/), [Elektron Music Machines](https://www.elektron.se/), [Cwejman Japan/AB](http://cwejman.jp/), [Faderfox](http://www.faderfox.de/) and [Qu-bit Electronix](https://www.qubitelectronix.com/).
