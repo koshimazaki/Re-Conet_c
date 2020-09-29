@@ -5,6 +5,10 @@ I also include keymap for Preonic keyboard I have used and sysex files for Elekt
 High quality files (48kHz 24bit) are on [Wave Folder Records Bandcamp](https://wavefolder.bandcamp.com/album/re-conet-c) where all the content is released and hosted as well. 
 I consider this a living project so patches/software will be updated in the future, new versions will be added as well. 
 
+<p align="left">
+  <img width="460" height="460" src="https://github.com/koshimazaki/Re-Conet_c/blob/master/Reconet_c%20cover.jpg">
+</p>
+
 # Tracklist:
 
 **Original mixes submitted to artists and engineers:**
