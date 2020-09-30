@@ -51,8 +51,8 @@ Patch  | Use
 [VCV Rack patches](VCV Rack patches/) | samples in Elektrocity / processing in Reconetc
 [ORCA patch](ORCA/)| in Mornings at Night
 [Sample pack](SAMPLES)| various tracks
-[Sysex files](Sysex for Elektrons)| Digitone and Rytm from various tracks
-[Preonic keymap](Preonic Keymap/)| in Reconetc and Broken Piano in Leeds
+[Sysex files](Sysex for Elektrons/)| Digitone and Rytm from various tracks
+[Preonic keymap](Preonic keymap/)| in Reconetc and Broken Piano in Leeds
  
 Sample pack of content created in development includes broken piano samples, Serge Modular, Buchla 200e, VCV Rack, Eurorack jams. Samples were used in Analog Rytm, Qubit Nebulae, MakeNoise Morphagene, pd and Max patches.
 
