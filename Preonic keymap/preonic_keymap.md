@@ -2,3 +2,5 @@ Keymap for Preonic this is for earlier version of QMK might need a bit of modifi
 
 See this
 https://github.com/koshimazaki/qmk_firmware
+
+Compiled with qmk_firmware-0.8.112
