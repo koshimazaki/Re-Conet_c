@@ -48,7 +48,7 @@ Patch  | Use
 [Reconetc (pd patch)](ReconetC!_ComputerVersion.pd)| in Reconetc, Broken Piano in Leeds, Dimensions
 [RytmTool](RytmTool/) | in Elektrocity
 [DigiTool](DigiTool/) | in Mornings at Night and Bionic Walk.
-[VCV Rack patches](VCV Rack patches/)| samples in Elektrocity / processing in Reconetc
+[VCV Rack patches](VCV Rack patches/) | samples in Elektrocity / processing in Reconetc
 [ORCA patch](ORCA/)| in Mornings at Night
 [Sample pack](SAMPLES/)| various tracks
 [Sysex files](Sysex for Elektrons/)| Digitone and Rytm from various tracks
