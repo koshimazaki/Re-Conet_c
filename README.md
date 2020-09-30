@@ -46,8 +46,8 @@ Mastering by Bob Macc from [Subvert Mastering](http://www.scmastering.com/)
 Patch  | Use
 ------------- | -------------
 [Reconetc (pd patch)](ReconetC!_ComputerVersion.pd)| in Reconetc, Broken Piano in Leeds, Dimensions
-[RytmTool](Re-Conet_c/RytmTool/) | in Elektrocity
-[DigiTool](Re-Conet_c/DigiTool/) | in Mornings at Night and Bionic Walk.
+[RytmTool](RytmTool/) | in Elektrocity
+[DigiTool](DigiTool/) | in Mornings at Night and Bionic Walk.
 VCV Rack patches| samples in Elektrocity / processing in Reconetc
 ORCA patch| in Mornings at Night
 Sample pack| various tracks
