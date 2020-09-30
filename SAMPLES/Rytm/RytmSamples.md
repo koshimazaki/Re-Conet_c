@@ -2,9 +2,9 @@ Info about slots for tracks / kits/ patterns and where each sample belongs to in
 
 Dimensions B7 B8 120 BPM but try 140, 160 or 180 plays well hihats especially.
 
-1 BD - REC0014 slot 11
-2 SD - REC0014
-3 RS - REC0014
+* 1 BD - REC0014 slot 11
+* 2 SD - REC0014
+* 3 RS - REC0014
 4 CP - REC0018 slot 15
 5 BT - REC0020 slot 17
 6 LT - REC0018
