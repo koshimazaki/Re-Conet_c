@@ -48,11 +48,11 @@ Patch  | Use
 [Reconetc (pd patch)](ReconetC!_ComputerVersion.pd)| in Reconetc, Broken Piano in Leeds, Dimensions
 [RytmTool](RytmTool/) | in Elektrocity
 [DigiTool](DigiTool/) | in Mornings at Night and Bionic Walk.
-[VCV Rack patches](VCV Rack patches/) | samples in Elektrocity / processing in Reconetc
+[VCV Rack patches](https://github.com/koshimazaki/Re-Conet_c/tree/master/VCV%20Rack%20patches) | samples in Elektrocity / processing in Reconetc
 [ORCA patch](ORCA/)| in Mornings at Night
 [Sample pack](SAMPLES)| various tracks
-[Sysex files](Sysex for Elektrons/)| Digitone and Rytm from various tracks
-[Preonic keymap](Preonic keymap/)| in Reconetc and Broken Piano in Leeds
+[Sysex files](https://github.com/koshimazaki/Re-Conet_c/tree/master/Sysex%20for%20Elektrons)| Digitone and Rytm from various tracks
+[Preonic keymap](https://github.com/koshimazaki/Re-Conet_c/tree/master/Preonic%20keymap)| in Reconetc and Broken Piano in Leeds
  
 Sample pack of content created in development includes broken piano samples, Serge Modular, Buchla 200e, VCV Rack, Eurorack jams. Samples were used in Analog Rytm, Qubit Nebulae, MakeNoise Morphagene, pd and Max patches.
 
