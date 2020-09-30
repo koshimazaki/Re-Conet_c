@@ -11,22 +11,6 @@ I consider this a living project so patches/software will be updated in the futu
 
 # Tracklist:
 
-**Original mixes submitted to artists and engineers:**
-
-1. Dimensions (Radek Rudnicki mix)
-2. Bionic Walk (Radek Rudnicki mix)
-3. Elektrocity (Radek Rudnicki mix)
-4. Mornings at Night (Radek Rudnicki mix)
-5. Reconetc (Radek Rudnicki mix)
-6. Broken Piano in Leeds (Radek Rudnicki mix)
-
-**Mixes by artists / engineers:**
-
-1. Dimensions (Nathan Moody mix)
-2. Bionic Walk (Roel Funcken mix)
-3. Elektrocity (Benny Tones mix)
-4. Mornings at Night (Toby Lloyd mix)
-
 **Mastered versions of all the tracks:**
 Mastering by Bob Macc from [Subvert Mastering](http://www.scmastering.com/)
 
@@ -41,14 +25,29 @@ Mastering by Bob Macc from [Subvert Mastering](http://www.scmastering.com/)
 9. Reconetc (Radek Mix/Bob Macc Master)
 10. Broken Piano in Leeds (Radek Mix/Bob Macc Master) 
 
+**Mixes by artists / engineers:**
+
+11. Dimensions (Nathan Moody mix)
+12. Bionic Walk (Roel Funcken mix)
+13. Elektrocity (Benny Tones mix)
+14. Mornings at Night (Toby Lloyd mix)
+
+**Original mixes submitted to artists and engineers:**
+
+15. Dimensions (Radek Rudnicki mix)
+16. Bionic Walk (Radek Rudnicki mix)
+17. Elektrocity (Radek Rudnicki mix)
+18. Mornings at Night (Radek Rudnicki mix)
+19. Reconetc (Radek Rudnicki mix)
+20. Broken Piano in Leeds (Radek Rudnicki mix)
 
 **Software/Patches/Samples and additional content**
 
 Patch  | Use
 ------------- | -------------
 [Reconetc (pd patch)](ReconetC!_ComputerVersion.pd)| in Reconetc, Broken Piano in Leeds, Dimensions
-RytmTool | in Elektrocity
-DigiTool | in Mornings at Night and Bionic Walk.
+[RytmTool](Re-Conet_c/RytmTool/) | in Elektrocity
+[DigiTool](Re-Conet_c/DigiTool/) | in Mornings at Night and Bionic Walk.
 VCV Rack patches| samples in Elektrocity / processing in Reconetc
 ORCA patch| in Mornings at Night
 Sample pack| various tracks
