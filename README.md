@@ -1,6 +1,6 @@
 # Re-Conet_c
 
-Is my attempt to open source album where the entire process of creation is open and accessible to the audience. This includes release of samples, patches, software developed during the project, scores and guides on how to make each track, early mixes and mastering of the tracks. 
+This is my attempt to open source an album where the entire process of creation is open and accessible to the audience. This includes release of samples, patches, software developed during the project, scores and guides on how to make each track, early mixes and mastering of the tracks. 
 
 <p align="left">
   <img width="350" height="350" src="https://github.com/koshimazaki/Re-Conet_c/blob/master/Reconet_c%20cover%20350.jpg">
