@@ -6,10 +6,15 @@ This is my attempt to open source an album where the entire process of creation 
   <img width="350" height="350" src="https://github.com/koshimazaki/Re-Conet_c/blob/master/Reconet_c%20cover%20350.jpg">
 </p>
 
-Project is documented on instagram feed under [#reconetc](https://www.instagram.com/explore/tags/reconetc/) and includes creation of audio works/tracks as well as sound pack, Max8 patches, Pure data(pd) patches, ORCΛ algorithms, VCV Rack patches, mixes from [Nathan Moody](http://obsidiansound.net/), [Roel Funcken](https://roelfuncken.bandcamp.com/), [Benny Tones](https://omw.co.nz/about/) and [Tiny Triumph Recordings(Toby Lloyd)](https://www.tinytriumphrecordings.com/). Mastering by Bob Macc at [Subvert Mastering](http://www.scmastering.com/). 
-I also include keymap for Preonic keyboard I have used and sysex files for Elektron Digitone and Analog Rytm. 
+Project is documented on instagram feed under [#reconetc](https://www.instagram.com/explore/tags/reconetc/) and includes creation of audio works/tracks as well as sound pack, Max8 patches, Pure data(pd) patches, ORCΛ algorithms, VCV Rack patches. 
+
+This album also highlights work of mixing and mastering engineers which is not so apparent in typical releases. That is why listenining to all the versions of each track is recommended. This will reveal the journey of each piece and the effects of that work.
+Album features mixes from four guest engineers/artists who were given a track each. This includes [Nathan Moody](http://obsidiansound.net/), [Roel Funcken](https://roelfuncken.bandcamp.com/), [Benny Tones](https://omw.co.nz/about/) and [Tiny Triumph Recordings(Toby Lloyd)](https://www.tinytriumphrecordings.com/). 
+Bob Macc at [Subvert Mastering](http://www.scmastering.com/) mastered both the mixes submitted to engineers and original mixes. 
+
+In this release I also include keymap for Preonic keyboard I have used while patching and jamming and sysex files for Elektron Digitone and Analog Rytm with patterns and sounds. 
 High quality files (48kHz 24bit) are on [Wave Folder Records Bandcamp](https://wavefolder.bandcamp.com/album/re-conet-c) where all the content is released and hosted as well. 
-I consider this a living project so patches/software will be updated in the future, new versions will be added as well. 
+I consider this a living project so patches/software will be updated in the future in here. New versions will be added as well so watch this space for updates.
 
 # Tracklist:
 
