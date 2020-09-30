@@ -63,7 +63,7 @@ Sample pack of content created in development includes broken piano samples, Ser
 
 Project was generously funded by [Creative New Zealand](https://www.creativenz.govt.nz/) and supported by [Looptrotter](http://looptrotter.com/), [Elektron Music Machines](https://www.elektron.se/), [Cwejman Japan/AB](http://cwejman.jp/), [Faderfox](http://www.faderfox.de/) and [Qu-bit Electronix](https://www.qubitelectronix.com/).
 
-Thanks to developers of open source software used: [VCV Rack](https://github.com/VCVRack/Rack) [ORCΛ](https://github.com/hundredrabbits/Orca) [Pure data(pd)](https://github.com/pure-data/pure-data)
+Thanks to developers of open source software used: [VCV Rack](https://github.com/VCVRack/Rack), [ORCΛ](https://github.com/hundredrabbits/Orca), [Pure data(pd)](https://github.com/pure-data/pure-data)
 
 <p align="left">
   <img width="270" height="65" src="https://github.com/koshimazaki/Re-Conet_c/blob/master/logo_CNZ.png">
