@@ -6,7 +6,7 @@ High quality files (48kHz 24bit) are on [Wave Folder Records Bandcamp](https://w
 I consider this a living project so patches/software will be updated in the future, new versions will be added as well. 
 
 <p align="left">
-  <img width="350" height="350" src="https://github.com/koshimazaki/Re-Conet_c/blob/master/Reconet_c%20cover.jpg">
+  <img width="350" height="350" src="https://github.com/koshimazaki/Re-Conet_c/blob/master/Reconet_c%20cover%20350.jpg">
 </p>
 
 # Tracklist:
