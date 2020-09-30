@@ -1,13 +1,12 @@
 # Re-Conet_c
+<p align="left">
+  <img width="350" height="350" src="https://github.com/koshimazaki/Re-Conet_c/blob/master/Reconet_c%20cover%20350.jpg">
+</p>
 Is my attempt to open source album where the entire process of creation is open and accessible to the audience. This includes release of samples, patches, software developed during the project, scores and guides on how to make each track, early mixes and mastering of the tracks. 
 Project is documented on instagram feed under [#reconetc](https://www.instagram.com/explore/tags/reconetc/) and includes creation of audio works/tracks as well as sound pack, Max8 patches, Pure data(pd) patches, ORCΛ algorithms, VCV Rack patches, mixes from [Nathan Moody](http://obsidiansound.net/), [Roel Funcken](https://roelfuncken.bandcamp.com/), [Benny Tones](https://omw.co.nz/about/) and [Tiny Triumph Recordings(Toby Lloyd)](https://www.tinytriumphrecordings.com/). Mastering by Bob Macc at [Subvert Mastering](http://www.scmastering.com/). 
 I also include keymap for Preonic keyboard I have used and sysex files for Elektron Digitone and Analog Rytm. 
 High quality files (48kHz 24bit) are on [Wave Folder Records Bandcamp](https://wavefolder.bandcamp.com/album/re-conet-c) where all the content is released and hosted as well. 
 I consider this a living project so patches/software will be updated in the future, new versions will be added as well. 
-
-<p align="left">
-  <img width="350" height="350" src="https://github.com/koshimazaki/Re-Conet_c/blob/master/Reconet_c%20cover%20350.jpg">
-</p>
 
 # Tracklist:
 
