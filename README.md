@@ -12,9 +12,8 @@ This album also highlights work of mixing and mastering engineers which is not s
 Album features mixes from four guest engineers/artists who were given a track each. This includes [Nathan Moody](http://obsidiansound.net/), [Roel Funcken](https://roelfuncken.bandcamp.com/), [Benny Tones](https://omw.co.nz/about/) and [Tiny Triumph Recordings(Toby Lloyd)](https://www.tinytriumphrecordings.com/). 
 Bob Macc at [Subvert Mastering](http://www.scmastering.com/) mastered both the mixes submitted to engineers and original mixes. 
 
-In this release I also include keymap for Preonic keyboard I have used while patching and jamming and sysex files for Elektron Digitone and Analog Rytm with patterns and sounds. 
-High quality files (48kHz 24bit) are on [Wave Folder Records Bandcamp](https://wavefolder.bandcamp.com/album/re-conet-c) where all the content is released and hosted as well. 
-I consider this a living project so patches/software will be updated in the future in here. New versions will be added as well so watch this space for updates.
+In this release I also include keymap for Preonic keyboard I have used while patching and jamming. Sysex files for Elektron Digitone and Analog Rytm containing patterns and sounds are also included. 
+High quality files (48kHz 24bit) are on [Wave Folder Records Bandcamp](https://wavefolder.bandcamp.com/album/re-conet-c) where all the music content is released and hosted as well. I consider this a living project so patches/software will be updated in the future in here. New versions will be added as well so watch this space for updates.
 
 # Tracklist:
 
