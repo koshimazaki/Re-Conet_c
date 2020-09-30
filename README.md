@@ -18,7 +18,6 @@ High quality files (48kHz 24bit) are on [Wave Folder Records Bandcamp](https://w
 # Tracklist:
 
 **Mastered versions of all the tracks:**
-Mastering by Bob Macc from [Subvert Mastering](http://www.scmastering.com/)
 
 1. Dimensions (Radek Mix/Bob Macc Master)
 2. Dimensions (Nathan Moody Mix/Bob Macc Master)
