@@ -61,6 +61,6 @@ Project was generously funded by [Creative New Zealand](https://www.creativenz.g
 Thanks to developers of open source software used: [VCV Rack](https://github.com/VCVRack/Rack) [ORCΛ](https://github.com/hundredrabbits/Orca) [Pure data(pd)](https://github.com/pure-data/pure-data)
 
 <p align="left">
-  <img width="350" height="100" src="https://www.creativenz.govt.nz/assets/m-navigation/logo_CNZ--large-3b6b3f960f06236253abcfb488ef253e.png">
+  <img width="350" height="150" src="https://www.creativenz.govt.nz/assets/m-navigation/logo_CNZ--large-3b6b3f960f06236253abcfb488ef253e.png">
 </p>
 
