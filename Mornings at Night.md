@@ -10,7 +10,7 @@
 * Replace sections of one of the copies with other favourite material from the same jam. This will give variety and texture.
 * Rinse everything with your favourite delays. I used Modcan Dual Delay and Bugbrand PTDelay. 
 * Use analog synth or module for low end bass. I tracked the bassline with MBC3 and triggered BLD2 with the envelope follwer on low end. 
-* Did two takes of two different BLD sounds this way. Kind of two kicks/basslines (3 in total with the first generated one). It fits well contrasting Digitone's vibe. You can avoid this by using analog synth as part of 4 voices but it worked in my favour here. 
+* Did two takes of two different BLD sounds this way overdubbing generated material with ORCA. Kind of two kicks/basslines (3 in total with the first generated one). It fits well contrasting Digitone's vibe. You can avoid this by using analog synth as part of 4 voices but it worked in my favour here. 
 * Jammed with the amount of kicks being triggered using gain knob on MBC3. 
 * Chop it up if you get too much material.
 * automate everything, add some effects in your DAW. 
