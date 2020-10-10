@@ -34,6 +34,6 @@ Hidden functions :
 there is MIDI controller activated too by sending program change messages.
 You can change that to notes or other midi messages in pd keyboard. pgmin is the receiver of program change messages.
 
-Samples used in the patch are Piano1, Piano2, Atoms, Kick, Stabs, SnareCrickets
+Samples used in the patch are Piano1.wav, Piano2.wav, Atmos.wav, Kick.wav, Stabs.wav, SnareCrickets.wav
  
 These are mono and are used as 2 separate channels. If you like to change them you need to modify the patch or modify names of your samples to the ones above.
