@@ -33,5 +33,6 @@ record alt - press to activate external clock then freez is input for clock
 there is MIDI controller activated too by sending program change messages.
 You can change that to notes or other midi messages in pd keyboard. pgmin is the receiver of program change messages.
 
+Samples used in the patch are Piano1, Piano2, Atoms, Kick, Stabs, SnareCrickets
  
-These are mono and are used as 2 separate channels.
+These are mono and are used as 2 separate channels. Change the names to your samples.
