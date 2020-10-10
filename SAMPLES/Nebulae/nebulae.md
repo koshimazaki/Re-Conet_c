@@ -8,7 +8,7 @@ I am hoping more people get into patching Nebulae this way. The mini sample pack
 Nebulae should load the pack once you select the patch from the pen drive. 
 **Samples used in the patch are Piano1.wav, Piano2.wav, Atmos.wav, Kick.wav, Stabs.wav, SnareCrickets.wav**
  
-These are mono and are used as 2 separate channels. If you like to change them you need to modify the patch or modify names of your samples to the ones above. In pd these are in file selector1  1 and 2) just so it gets the path and files right. 
+These are mono and are used as 2 separate channels. If you like to change them you need to modify the patch or modify names of your samples to the ones above. In pd these are in file selector1 and 2, this is so patch gets the path and files right. 
 This instrument reads specific 6 files.
 Sometimes it might not load the file fine then keep pressing **file** it eventually should work fine.  
 
