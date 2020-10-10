@@ -6,9 +6,11 @@ The instrument has a modular design and was developed based on the patches I use
 These are ported from Max to pd and modified. I encourage modification of the algorithms, slices and samples. 
 I am hoping more people get into patching Nebulae this way. The mini sample pack is attached as well.  
 Nebulae should load the pack once you select the patch from the pen drive. 
-You would have to keep the names if you like to change samples or change names in the patch (in pd file selector both 1 and 2) just so it gets the path and files right. 
+**Samples used in the patch are Piano1.wav, Piano2.wav, Atmos.wav, Kick.wav, Stabs.wav, SnareCrickets.wav**
+ 
+These are mono and are used as 2 separate channels. If you like to change them you need to modify the patch or modify names of your samples to the ones above. In pd these are in file selector1  1 and 2) just so it gets the path and files right. 
 This instrument reads specific 6 files.
-Sometimes it might not load the file fine then keep pressing file it eventually should work fine.  
+Sometimes it might not load the file fine then keep pressing **file** it eventually should work fine.  
 
 List of functions as on the panel: 
 
@@ -31,9 +33,7 @@ Hidden functions :
 * file alt - toggles between samples for slicer 2
 * record alt - press to activate external clock then freez is input for clock 
 
-there is MIDI controller activated too by sending program change messages.
+There is MIDI controller activated too by sending program change messages.
 You can change that to notes or other midi messages in pd keyboard. pgmin is the receiver of program change messages.
 
-Samples used in the patch are Piano1.wav, Piano2.wav, Atmos.wav, Kick.wav, Stabs.wav, SnareCrickets.wav
- 
-These are mono and are used as 2 separate channels. If you like to change them you need to modify the patch or modify names of your samples to the ones above.
+
