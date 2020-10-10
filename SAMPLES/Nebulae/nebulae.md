@@ -36,4 +36,4 @@ You can change that to notes or other midi messages in pd keyboard. pgmin is the
 
 Samples used in the patch are Piano1, Piano2, Atoms, Kick, Stabs, SnareCrickets
  
-These are mono and are used as 2 separate channels. Change the names to your samples.
+These are mono and are used as 2 separate channels. If you like to change them you need to modify the patch or modify names of your samples.
