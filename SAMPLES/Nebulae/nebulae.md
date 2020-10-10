@@ -12,24 +12,25 @@ Sometimes it might not load the file fine then keep pressing file it eventually 
 
 List of functions as on the panel: 
 
-Speed - speed/pitch of slicer 1
-Size - volume of slicer 1 
-Pitch - speed/pitch of slicer 2
-overlap - volume of slicer 2
-blend - probability of clocks/steps/slices 
-window - repeater of certain steps 
-start - zone selection / algorithm choice 1-4 5th one is free-running loops its on the right side.
-density - tempo / density of material / metro timing
+* Speed - speed/pitch of slicer 1
+* Size - volume of slicer 1 
+* Pitch - speed/pitch of slicer 2
+* overlap - volume of slicer 2
+* blend - probability of clocks/steps/slices 
+* window - repeater of certain steps 
+* start - zone selection / algorithm choice 1-4 5th one is free-running loops its on the right side.
+* density - tempo / density of material / metro timing
 
 Hidden functions :
 
-blend alt - reverb on sample 1
-window alt - reverb on sample 2
-size alt - volume of incoming input this is patched thru reverb 
-reset - resets steps 
-file - toggles between samples for slicer 1
-file alt - toggles between samples for slicer 2
-record alt - press to activate external clock then freez is input for clock 
+* blend alt - reverb on sample 1
+* window alt - reverb on sample 2
+* size alt - volume of incoming input this is patched thru reverb 
+* reset - resets steps 
+* file - toggles between samples for slicer 1
+* file alt - toggles between samples for slicer 2
+* record alt - press to activate external clock then freez is input for clock 
+
 there is MIDI controller activated too by sending program change messages.
 You can change that to notes or other midi messages in pd keyboard. pgmin is the receiver of program change messages.
 
