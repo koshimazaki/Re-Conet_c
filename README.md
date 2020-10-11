@@ -15,8 +15,6 @@ Bob Macc at [Subvert Mastering](http://www.scmastering.com/) mastered both the m
 In this release I also include keymap for Preonic keyboard I have used while patching and jamming. Sysex files for Elektron Digitone and Analog Rytm containing patterns and sounds are also included. 
 High quality files (48kHz 24bit) are on [Wave Folder Records Bandcamp](https://wavefolder.bandcamp.com/album/re-conet-c) where all the music content is released and hosted as well. I consider this a living project so patches/software will be updated in the future in here. New versions will be added as well so watch this space for updates.
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=765381348/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://wavefolder.bandcamp.com/album/re-conet-c">Re: conet_c by Radek Rudnicki</a></iframe>
-
 # Tracklist:
 
 **Mastered versions of all the tracks:**
